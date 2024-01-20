@@ -1,5 +1,5 @@
 # Getting started
 
-- Install [Python](https://www.python.org/downloads)
-- Run `python test.py` to run the test suite
-- Run `python main.py` to run the program
+- The best way to run this is by using [Google Colab](https://colab.google/).
+- To run it locally, you can follow the instruction [here](https://jupyter.org/install) to set up Jupyter Notebook.
+- Once that's done, you should run `pip install matplotlib` to install the plot library.
